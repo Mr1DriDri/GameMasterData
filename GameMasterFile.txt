@@ -15613,7 +15613,6 @@ item_templates {
       collision_radius_m: 0.2595
       collision_height_m: 0.346
       collision_head_radius_m: 0.1384
-      movement_type: MOVEMENT_JUMP
       movement_timer_s: 29
       jump_time_s: 1.25
       attack_timer_s: 10
@@ -40117,7 +40116,6 @@ item_templates {
       collision_radius_m: 0.25
       collision_height_m: 1
       collision_head_radius_m: 0.25
-      movement_type: MOVEMENT_JUMP
       movement_timer_s: 11
       jump_time_s: 1.1
       attack_timer_s: 20
@@ -40365,8 +40363,8 @@ item_templates {
       jump_time_s: 1.1
       attack_timer_s: 20
       attack_probability: 0.01
-      dodge_probability: 0.4
-      dodge_duration_s: 1
+      dodge_probability: 0.5
+      dodge_duration_s: 0.7
       dodge_distance: 0.7
       camera_distance: 4
       min_pokemon_action_frequency_s: 0.2
@@ -42143,7 +42141,7 @@ item_templates {
     camera {
       disk_radius_m: 0.555
       cylinder_radius_m: 0.6
-      cylinder_height_m: 1
+      cylinder_height_m: 0.378
       shoulder_mode_scale: 0.5
     }
     encounter {
@@ -42160,7 +42158,7 @@ item_templates {
       dodge_probability: 0.15
       dodge_duration_s: 1
       dodge_distance: 1
-      camera_distance: 3.5
+      camera_distance: 1.89
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
     }
@@ -57432,4 +57430,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1537782868593
+timestamp_ms: 1537827804269
