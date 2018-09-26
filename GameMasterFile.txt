@@ -5693,6 +5693,9 @@ item_templates {
   }
 }
 item_templates {
+  template_id: "EX_RAID_SETTINGS"
+}
+item_templates {
   template_id: "FORMS_V0001_POKEMON_BULBASAUR"
   form_settings {
     pokemon: BULBASAUR
@@ -57430,4 +57433,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1537827804269
+timestamp_ms: 1539378563218
