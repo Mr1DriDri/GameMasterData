@@ -44255,7 +44255,7 @@ item_templates {
       shoulder_mode_scale: 0.5
     }
     encounter {
-      base_capture_rate: 0.02
+      base_capture_rate: 0.06
       base_flee_rate: 0.01
       collision_radius_m: 0.25
       collision_height_m: 1
@@ -44273,15 +44273,15 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 1
-      base_attack: 1
-      base_defense: 1
+      base_stamina: 100
+      base_attack: 345
+      base_defense: 115
     }
     quick_moves: ZEN_HEADBUTT_FAST
-    quick_moves: COUNTER_FAST
+    quick_moves: SIGNAL_BEAM
     cinematic_moves: 288
     cinematic_moves: ZAP_CANNON
-    cinematic_moves: SWIFT
+    cinematic_moves: HYPER_BEAM
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -44315,7 +44315,7 @@ item_templates {
       shoulder_mode_scale: 0.5
     }
     encounter {
-      base_capture_rate: 0.02
+      base_capture_rate: 0.06
       base_flee_rate: 0.01
       collision_radius_m: 0.25
       collision_height_m: 1
@@ -44333,15 +44333,15 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 1
-      base_attack: 1
-      base_defense: 1
+      base_stamina: 100
+      base_attack: 414
+      base_defense: 46
     }
     quick_moves: ZEN_HEADBUTT_FAST
-    quick_moves: COUNTER_FAST
+    quick_moves: POISON_JAB_FAST
     cinematic_moves: 288
     cinematic_moves: ZAP_CANNON
-    cinematic_moves: SWIFT
+    cinematic_moves: DARK_PULSE
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -44375,7 +44375,7 @@ item_templates {
       shoulder_mode_scale: 0.5
     }
     encounter {
-      base_capture_rate: 0.02
+      base_capture_rate: 0.06
       base_flee_rate: 0.01
       collision_radius_m: 0.25
       collision_height_m: 1
@@ -44393,15 +44393,15 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 1
-      base_attack: 1
-      base_defense: 1
+      base_stamina: 100
+      base_attack: 144
+      base_defense: 330
     }
     quick_moves: ZEN_HEADBUTT_FAST
     quick_moves: COUNTER_FAST
     cinematic_moves: 288
     cinematic_moves: ZAP_CANNON
-    cinematic_moves: SWIFT
+    cinematic_moves: ROCK_SLIDE
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -44435,7 +44435,7 @@ item_templates {
       shoulder_mode_scale: 0.5
     }
     encounter {
-      base_capture_rate: 0.02
+      base_capture_rate: 0.06
       base_flee_rate: 0.01
       collision_radius_m: 0.25
       collision_height_m: 1
@@ -44453,15 +44453,15 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 1
-      base_attack: 1
-      base_defense: 1
+      base_stamina: 100
+      base_attack: 345
+      base_defense: 115
     }
     quick_moves: ZEN_HEADBUTT_FAST
-    quick_moves: COUNTER_FAST
+    quick_moves: SIGNAL_BEAM
     cinematic_moves: 288
-    cinematic_moves: ZAP_CANNON
-    cinematic_moves: SWIFT
+    cinematic_moves: THUNDERBOLT
+    cinematic_moves: HYPER_BEAM
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -44495,7 +44495,7 @@ item_templates {
       shoulder_mode_scale: 0.5
     }
     encounter {
-      base_capture_rate: 0.02
+      base_capture_rate: 0.06
       base_flee_rate: 0.01
       collision_radius_m: 0.25
       collision_height_m: 1
@@ -44513,12 +44513,12 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 1
-      base_attack: 1
-      base_defense: 1
+      base_stamina: 100
+      base_attack: 230
+      base_defense: 218
     }
     quick_moves: ZEN_HEADBUTT_FAST
-    quick_moves: COUNTER_FAST
+    quick_moves: CHARGE_BEAM_FAST
     cinematic_moves: 288
     cinematic_moves: ZAP_CANNON
     cinematic_moves: SWIFT
@@ -57433,4 +57433,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1539378563218
+timestamp_ms: 1539383713375
