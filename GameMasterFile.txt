@@ -27637,9 +27637,10 @@ item_templates {
     quick_moves: PSYCHO_CUT_FAST
     quick_moves: CONFUSION_FAST
     cinematic_moves: PSYCHIC
-    cinematic_moves: SHADOW_BALL
-    cinematic_moves: HYPER_BEAM
+    cinematic_moves: THUNDERBOLT
+    cinematic_moves: ICE_BEAM
     cinematic_moves: FOCUS_BLAST
+    cinematic_moves: FLAMETHROWER
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -57656,4 +57657,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1541104984439
+timestamp_ms: 1541117484598
