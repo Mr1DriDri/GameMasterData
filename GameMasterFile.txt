@@ -14048,9 +14048,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 118
-      base_defense: 111
+      base_defense: 118
     }
     quick_moves: VINE_WHIP_FAST
     quick_moves: TACKLE_FAST
@@ -14115,9 +14115,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 151
-      base_defense: 143
+      base_defense: 151
     }
     quick_moves: RAZOR_LEAF_FAST
     quick_moves: VINE_WHIP_FAST
@@ -14184,9 +14184,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 198
-      base_defense: 189
+      base_defense: 198
     }
     quick_moves: RAZOR_LEAF_FAST
     quick_moves: VINE_WHIP_FAST
@@ -14244,9 +14244,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 118
+      base_stamina: 78
       base_attack: 116
-      base_defense: 93
+      base_defense: 96
     }
     quick_moves: EMBER_FAST
     quick_moves: SCRATCH_FAST
@@ -14310,9 +14310,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 151
+      base_stamina: 116
       base_attack: 158
-      base_defense: 126
+      base_defense: 129
     }
     quick_moves: EMBER_FAST
     quick_moves: FIRE_FANG_FAST
@@ -14379,9 +14379,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 186
+      base_stamina: 156
       base_attack: 223
-      base_defense: 173
+      base_defense: 176
     }
     quick_moves: FIRE_SPIN_FAST
     quick_moves: AIR_SLASH_FAST
@@ -14439,9 +14439,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 127
+      base_stamina: 88
       base_attack: 94
-      base_defense: 121
+      base_defense: 122
     }
     quick_moves: BUBBLE_FAST
     quick_moves: TACKLE_FAST
@@ -14505,7 +14505,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 153
+      base_stamina: 118
       base_attack: 126
       base_defense: 155
     }
@@ -14572,9 +14572,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 188
+      base_stamina: 158
       base_attack: 171
-      base_defense: 207
+      base_defense: 210
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: BITE_FAST
@@ -14631,9 +14631,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 55
-      base_defense: 55
+      base_defense: 62
     }
     quick_moves: BUG_BITE_FAST
     quick_moves: TACKLE_FAST
@@ -14693,9 +14693,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 45
-      base_defense: 80
+      base_defense: 94
     }
     quick_moves: BUG_BITE_FAST
     quick_moves: TACKLE_FAST
@@ -14760,9 +14760,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 167
-      base_defense: 137
+      base_defense: 151
     }
     quick_moves: STRUGGLE_BUG_FAST
     quick_moves: CONFUSION_FAST
@@ -14840,9 +14840,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 63
-      base_defense: 50
+      base_defense: 55
     }
     quick_moves: BUG_BITE_FAST
     quick_moves: POISON_STING_FAST
@@ -14922,9 +14922,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 46
-      base_defense: 75
+      base_defense: 86
     }
     quick_moves: BUG_BITE_FAST
     quick_moves: POISON_STING_FAST
@@ -14989,9 +14989,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 169
-      base_defense: 130
+      base_defense: 150
     }
     quick_moves: INFESTATION_FAST
     quick_moves: POISON_JAB_FAST
@@ -15069,9 +15069,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 85
-      base_defense: 73
+      base_defense: 76
     }
     quick_moves: QUICK_ATTACK_FAST
     quick_moves: TACKLE_FAST
@@ -15138,9 +15138,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 160
+      base_stamina: 126
       base_attack: 117
-      base_defense: 105
+      base_defense: 108
     }
     quick_moves: WING_ATTACK_FAST
     quick_moves: STEEL_WING_FAST
@@ -15227,9 +15227,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 195
+      base_stamina: 166
       base_attack: 166
-      base_defense: 154
+      base_defense: 157
     }
     quick_moves: AIR_SLASH_FAST
     quick_moves: STEEL_WING_FAST
@@ -15287,7 +15287,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 103
       base_defense: 70
     }
@@ -15352,7 +15352,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 103
       base_defense: 70
     }
@@ -15416,7 +15416,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 103
       base_defense: 70
     }
@@ -15501,9 +15501,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 161
-      base_defense: 139
+      base_defense: 144
     }
     quick_moves: BITE_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -15563,9 +15563,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 135
-      base_defense: 154
+      base_defense: 159
     }
     quick_moves: BITE_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -15624,9 +15624,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 161
-      base_defense: 139
+      base_defense: 144
     }
     quick_moves: BITE_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -15703,9 +15703,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 112
-      base_defense: 60
+      base_defense: 61
     }
     quick_moves: PECK_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -15791,9 +15791,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 182
-      base_defense: 133
+      base_defense: 135
     }
     quick_moves: PECK_FAST
     quick_moves: STEEL_WING_FAST
@@ -15851,9 +15851,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 110
-      base_defense: 97
+      base_defense: 102
     }
     quick_moves: POISON_STING_FAST
     quick_moves: ACID_FAST
@@ -15936,9 +15936,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 167
-      base_defense: 153
+      base_defense: 158
     }
     quick_moves: BITE_FAST
     quick_moves: ACID_FAST
@@ -15996,9 +15996,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 112
-      base_defense: 96
+      base_defense: 101
     }
     quick_moves: THUNDER_SHOCK_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -16083,9 +16083,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 193
-      base_defense: 151
+      base_defense: 165
     }
     quick_moves: VOLT_SWITCH_FAST
     quick_moves: SPARK_FAST
@@ -16145,9 +16145,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 201
-      base_defense: 154
+      base_defense: 172
     }
     quick_moves: VOLT_SWITCH_FAST
     quick_moves: SPARK_FAST
@@ -16206,9 +16206,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 193
-      base_defense: 151
+      base_defense: 165
     }
     quick_moves: VOLT_SWITCH_FAST
     quick_moves: SPARK_FAST
@@ -16265,9 +16265,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 126
-      base_defense: 120
+      base_defense: 145
     }
     quick_moves: SCRATCH_FAST
     quick_moves: MUD_SHOT_FAST
@@ -16330,9 +16330,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 125
-      base_defense: 129
+      base_defense: 154
     }
     quick_moves: METAL_CLAW_FAST
     quick_moves: POWDER_SNOW_FAST
@@ -16394,9 +16394,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 126
-      base_defense: 120
+      base_defense: 145
     }
     quick_moves: SCRATCH_FAST
     quick_moves: MUD_SHOT_FAST
@@ -16479,9 +16479,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 182
-      base_defense: 175
+      base_defense: 202
     }
     quick_moves: METAL_CLAW_FAST
     quick_moves: MUD_SHOT_FAST
@@ -16541,9 +16541,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 177
-      base_defense: 195
+      base_defense: 221
     }
     quick_moves: METAL_CLAW_FAST
     quick_moves: POWDER_SNOW_FAST
@@ -16602,9 +16602,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 182
-      base_defense: 175
+      base_defense: 202
     }
     quick_moves: METAL_CLAW_FAST
     quick_moves: MUD_SHOT_FAST
@@ -16661,9 +16661,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 86
-      base_defense: 89
+      base_defense: 94
     }
     quick_moves: BITE_FAST
     quick_moves: POISON_STING_FAST
@@ -16746,9 +16746,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 117
-      base_defense: 120
+      base_defense: 126
     }
     quick_moves: BITE_FAST
     quick_moves: POISON_STING_FAST
@@ -16833,9 +16833,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 180
-      base_defense: 173
+      base_defense: 174
     }
     quick_moves: POISON_JAB_FAST
     quick_moves: BITE_FAST
@@ -16912,7 +16912,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 130
+      base_stamina: 92
       base_attack: 105
       base_defense: 76
     }
@@ -16997,9 +16997,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 156
+      base_stamina: 122
       base_attack: 137
-      base_defense: 111
+      base_defense: 112
     }
     quick_moves: POISON_JAB_FAST
     quick_moves: POISON_STING_FAST
@@ -17084,9 +17084,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 191
+      base_stamina: 162
       base_attack: 204
-      base_defense: 156
+      base_defense: 157
     }
     quick_moves: POISON_JAB_FAST
     quick_moves: IRON_TAIL_FAST
@@ -17163,9 +17163,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 107
-      base_defense: 108
+      base_defense: 116
     }
     quick_moves: POUND_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -17249,9 +17249,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 178
-      base_defense: 162
+      base_defense: 171
     }
     quick_moves: CHARGE_BEAM_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -17309,9 +17309,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 116
+      base_stamina: 76
       base_attack: 96
-      base_defense: 109
+      base_defense: 122
     }
     quick_moves: QUICK_ATTACK_FAST
     quick_moves: EMBER_FAST
@@ -17373,9 +17373,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 116
+      base_stamina: 76
       base_attack: 96
-      base_defense: 109
+      base_defense: 122
     }
     quick_moves: ZEN_HEADBUTT_FAST
     quick_moves: POWDER_SNOW_FAST
@@ -17437,9 +17437,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 116
+      base_stamina: 76
       base_attack: 96
-      base_defense: 109
+      base_defense: 122
     }
     quick_moves: QUICK_ATTACK_FAST
     quick_moves: EMBER_FAST
@@ -17522,9 +17522,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 177
+      base_stamina: 146
       base_attack: 169
-      base_defense: 190
+      base_defense: 204
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: FIRE_SPIN_FAST
@@ -17585,9 +17585,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 177
+      base_stamina: 146
       base_attack: 170
-      base_defense: 193
+      base_defense: 207
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: POWDER_SNOW_FAST
@@ -17647,9 +17647,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 177
+      base_stamina: 146
       base_attack: 169
-      base_defense: 190
+      base_defense: 204
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: FIRE_SPIN_FAST
@@ -17727,9 +17727,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 251
+      base_stamina: 230
       base_attack: 80
-      base_defense: 41
+      base_defense: 44
     }
     quick_moves: POUND_FAST
     quick_moves: FEINT_ATTACK_FAST
@@ -17814,9 +17814,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 295
+      base_stamina: 280
       base_attack: 156
-      base_defense: 90
+      base_defense: 93
     }
     quick_moves: POUND_FAST
     quick_moves: FEINT_ATTACK_FAST
@@ -17876,9 +17876,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 83
-      base_defense: 73
+      base_defense: 76
     }
     quick_moves: QUICK_ATTACK_FAST
     quick_moves: BITE_FAST
@@ -17964,9 +17964,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 161
-      base_defense: 150
+      base_defense: 153
     }
     quick_moves: WING_ATTACK_FAST
     quick_moves: BITE_FAST
@@ -18029,9 +18029,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 131
-      base_defense: 112
+      base_defense: 116
     }
     quick_moves: RAZOR_LEAF_FAST
     quick_moves: ACID_FAST
@@ -18096,9 +18096,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 153
-      base_defense: 136
+      base_defense: 139
     }
     quick_moves: RAZOR_LEAF_FAST
     quick_moves: ACID_FAST
@@ -18188,9 +18188,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 202
-      base_defense: 167
+      base_defense: 170
     }
     quick_moves: RAZOR_LEAF_FAST
     quick_moves: ACID_FAST
@@ -18268,7 +18268,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 121
       base_defense: 99
     }
@@ -18354,7 +18354,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 165
       base_defense: 146
     }
@@ -18434,9 +18434,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 100
-      base_defense: 100
+      base_defense: 102
     }
     quick_moves: BUG_BITE_FAST
     quick_moves: CONFUSION_FAST
@@ -18521,9 +18521,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 179
-      base_defense: 143
+      base_defense: 150
     }
     quick_moves: INFESTATION_FAST
     quick_moves: CONFUSION_FAST
@@ -18597,9 +18597,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 67
+      base_stamina: 20
       base_attack: 109
-      base_defense: 78
+      base_defense: 88
     }
     quick_moves: MUD_SLAP_FAST
     quick_moves: SCRATCH_FAST
@@ -18659,9 +18659,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 67
+      base_stamina: 20
       base_attack: 109
-      base_defense: 82
+      base_defense: 89
     }
     quick_moves: MUD_SLAP_FAST
     quick_moves: METAL_CLAW_FAST
@@ -18720,9 +18720,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 67
+      base_stamina: 20
       base_attack: 109
-      base_defense: 78
+      base_defense: 88
     }
     quick_moves: MUD_SLAP_FAST
     quick_moves: SCRATCH_FAST
@@ -18802,9 +18802,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 167
-      base_defense: 134
+      base_defense: 147
     }
     quick_moves: SUCKER_PUNCH_FAST
     quick_moves: MUD_SLAP_FAST
@@ -18862,9 +18862,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 201
-      base_defense: 145
+      base_defense: 148
     }
     quick_moves: METAL_CLAW_FAST
     quick_moves: MUD_SLAP_FAST
@@ -18921,9 +18921,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 167
-      base_defense: 134
+      base_defense: 147
     }
     quick_moves: SUCKER_PUNCH_FAST
     quick_moves: MUD_SLAP_FAST
@@ -18981,9 +18981,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 92
-      base_defense: 78
+      base_defense: 81
     }
     quick_moves: SCRATCH_FAST
     quick_moves: BITE_FAST
@@ -19045,9 +19045,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 99
-      base_defense: 78
+      base_defense: 81
     }
     quick_moves: SCRATCH_FAST
     quick_moves: BITE_FAST
@@ -19109,9 +19109,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 92
-      base_defense: 78
+      base_defense: 81
     }
     quick_moves: SCRATCH_FAST
     quick_moves: BITE_FAST
@@ -19194,9 +19194,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 150
-      base_defense: 136
+      base_defense: 139
     }
     quick_moves: SCRATCH_FAST
     quick_moves: FEINT_ATTACK_FAST
@@ -19255,9 +19255,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 158
-      base_defense: 136
+      base_defense: 139
     }
     quick_moves: SCRATCH_FAST
     quick_moves: FEINT_ATTACK_FAST
@@ -19316,9 +19316,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 150
-      base_defense: 136
+      base_defense: 139
     }
     quick_moves: SCRATCH_FAST
     quick_moves: FEINT_ATTACK_FAST
@@ -19394,9 +19394,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 122
-      base_defense: 95
+      base_defense: 96
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -19460,9 +19460,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 191
-      base_defense: 162
+      base_defense: 163
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: CONFUSION_FAST
@@ -19539,9 +19539,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 148
-      base_defense: 82
+      base_defense: 87
     }
     quick_moves: KARATE_CHOP_FAST
     quick_moves: SCRATCH_FAST
@@ -19624,9 +19624,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 207
-      base_defense: 138
+      base_defense: 144
     }
     quick_moves: LOW_KICK_FAST
     quick_moves: COUNTER_FAST
@@ -19703,9 +19703,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 136
-      base_defense: 93
+      base_defense: 96
     }
     quick_moves: EMBER_FAST
     quick_moves: BITE_FAST
@@ -19788,7 +19788,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 227
       base_defense: 166
     }
@@ -19867,7 +19867,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 101
       base_defense: 82
     }
@@ -19933,9 +19933,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 130
-      base_defense: 123
+      base_defense: 130
     }
     quick_moves: BUBBLE_FAST
     quick_moves: MUD_SHOT_FAST
@@ -20026,9 +20026,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 182
-      base_defense: 184
+      base_defense: 187
     }
     quick_moves: BUBBLE_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -20106,9 +20106,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 93
+      base_stamina: 50
       base_attack: 195
-      base_defense: 82
+      base_defense: 103
     }
     quick_moves: ZEN_HEADBUTT_FAST
     quick_moves: CHARGE_BEAM_FAST
@@ -20191,9 +20191,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 232
-      base_defense: 117
+      base_defense: 138
     }
     quick_moves: PSYCHO_CUT_FAST
     quick_moves: CONFUSION_FAST
@@ -20278,9 +20278,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 271
-      base_defense: 167
+      base_defense: 194
     }
     quick_moves: PSYCHO_CUT_FAST
     quick_moves: CONFUSION_FAST
@@ -20357,9 +20357,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 137
-      base_defense: 82
+      base_defense: 88
     }
     quick_moves: ROCK_SMASH_FAST
     quick_moves: KARATE_CHOP_FAST
@@ -20442,9 +20442,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 177
-      base_defense: 125
+      base_defense: 130
     }
     quick_moves: LOW_KICK_FAST
     quick_moves: KARATE_CHOP_FAST
@@ -20510,9 +20510,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 234
-      base_defense: 159
+      base_defense: 162
     }
     quick_moves: BULLET_PUNCH_FAST
     quick_moves: COUNTER_FAST
@@ -20590,9 +20590,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 139
-      base_defense: 61
+      base_defense: 64
     }
     quick_moves: VINE_WHIP_FAST
     quick_moves: ACID_FAST
@@ -20677,9 +20677,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 172
-      base_defense: 92
+      base_defense: 95
     }
     quick_moves: BULLET_SEED_FAST
     quick_moves: ACID_FAST
@@ -20747,9 +20747,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 207
-      base_defense: 135
+      base_defense: 138
     }
     quick_moves: RAZOR_LEAF_FAST
     quick_moves: ACID_FAST
@@ -20828,9 +20828,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 97
-      base_defense: 149
+      base_defense: 182
     }
     quick_moves: BUBBLE_FAST
     quick_moves: POISON_STING_FAST
@@ -20896,9 +20896,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 166
-      base_defense: 209
+      base_defense: 237
     }
     quick_moves: ACID_FAST
     quick_moves: POISON_JAB_FAST
@@ -20977,9 +20977,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 132
-      base_defense: 132
+      base_defense: 163
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: TACKLE_FAST
@@ -21043,9 +21043,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 132
-      base_defense: 132
+      base_defense: 163
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: VOLT_SWITCH_FAST
@@ -21109,9 +21109,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 132
-      base_defense: 132
+      base_defense: 163
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: TACKLE_FAST
@@ -21196,9 +21196,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 164
-      base_defense: 164
+      base_defense: 196
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: MUD_SLAP_FAST
@@ -21265,9 +21265,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 164
-      base_defense: 164
+      base_defense: 196
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: VOLT_SWITCH_FAST
@@ -21334,9 +21334,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 164
-      base_defense: 164
+      base_defense: 196
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: MUD_SLAP_FAST
@@ -21403,9 +21403,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 211
-      base_defense: 198
+      base_defense: 229
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: MUD_SLAP_FAST
@@ -21466,9 +21466,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 211
-      base_defense: 198
+      base_defense: 229
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: VOLT_SWITCH_FAST
@@ -21529,9 +21529,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 211
-      base_defense: 198
+      base_defense: 229
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: MUD_SLAP_FAST
@@ -21608,9 +21608,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 170
-      base_defense: 127
+      base_defense: 132
     }
     quick_moves: TACKLE_FAST
     quick_moves: EMBER_FAST
@@ -21693,9 +21693,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 207
-      base_defense: 162
+      base_defense: 167
     }
     quick_moves: LOW_KICK_FAST
     quick_moves: FIRE_SPIN_FAST
@@ -21773,9 +21773,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 109
-      base_defense: 98
+      base_defense: 109
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: CONFUSION_FAST
@@ -21864,9 +21864,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 177
-      base_defense: 180
+      base_defense: 194
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: CONFUSION_FAST
@@ -21926,9 +21926,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 93
+      base_stamina: 50
       base_attack: 165
-      base_defense: 121
+      base_defense: 128
     }
     quick_moves: SPARK_FAST
     quick_moves: THUNDER_SHOCK_FAST
@@ -22014,9 +22014,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 223
-      base_defense: 169
+      base_defense: 182
     }
     quick_moves: SPARK_FAST
     quick_moves: CHARGE_BEAM_FAST
@@ -22094,9 +22094,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 141
+      base_stamina: 104
       base_attack: 124
-      base_defense: 115
+      base_defense: 118
     }
     quick_moves: AIR_SLASH_FAST
     quick_moves: FURY_CUTTER_FAST
@@ -22172,9 +22172,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 158
-      base_defense: 83
+      base_defense: 88
     }
     quick_moves: PECK_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -22259,9 +22259,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 218
-      base_defense: 140
+      base_defense: 145
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: STEEL_WING_FAST
@@ -22338,9 +22338,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 85
-      base_defense: 121
+      base_defense: 128
     }
     quick_moves: ICE_SHARD_FAST
     quick_moves: LICK_FAST
@@ -22425,9 +22425,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 139
-      base_defense: 177
+      base_defense: 184
     }
     quick_moves: FROST_BREATH_FAST
     quick_moves: IRON_TAIL_FAST
@@ -22503,7 +22503,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 135
       base_defense: 90
     }
@@ -22569,7 +22569,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 135
       base_defense: 90
     }
@@ -22634,7 +22634,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 135
       base_defense: 90
     }
@@ -22720,9 +22720,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 233
+      base_stamina: 210
       base_attack: 190
-      base_defense: 172
+      base_defense: 184
     }
     quick_moves: INFESTATION_FAST
     quick_moves: POISON_JAB_FAST
@@ -22783,9 +22783,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 233
+      base_stamina: 210
       base_attack: 190
-      base_defense: 172
+      base_defense: 184
     }
     quick_moves: BITE_FAST
     quick_moves: POISON_JAB_FAST
@@ -22845,9 +22845,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 233
+      base_stamina: 210
       base_attack: 190
-      base_defense: 172
+      base_defense: 184
     }
     quick_moves: INFESTATION_FAST
     quick_moves: POISON_JAB_FAST
@@ -22924,9 +22924,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 116
-      base_defense: 134
+      base_defense: 168
     }
     quick_moves: ICE_SHARD_FAST
     quick_moves: TACKLE_FAST
@@ -23011,9 +23011,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 186
-      base_defense: 256
+      base_defense: 323
     }
     quick_moves: FROST_BREATH_FAST
     quick_moves: ICE_SHARD_FAST
@@ -23092,9 +23092,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 186
-      base_defense: 67
+      base_defense: 70
     }
     quick_moves: LICK_FAST
     quick_moves: ASTONISH_FAST
@@ -23161,9 +23161,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 223
-      base_defense: 107
+      base_defense: 112
     }
     quick_moves: SHADOW_CLAW_FAST
     quick_moves: ASTONISH_FAST
@@ -23249,9 +23249,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 261
-      base_defense: 149
+      base_defense: 156
     }
     quick_moves: SUCKER_PUNCH_FAST
     quick_moves: HEX_FAST
@@ -23327,9 +23327,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 85
-      base_defense: 232
+      base_defense: 288
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: TACKLE_FAST
@@ -23410,9 +23410,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 89
-      base_defense: 136
+      base_defense: 158
     }
     quick_moves: POUND_FAST
     quick_moves: CONFUSION_FAST
@@ -23477,9 +23477,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 198
+      base_stamina: 170
       base_attack: 144
-      base_defense: 193
+      base_defense: 215
     }
     quick_moves: ZEN_HEADBUTT_FAST
     quick_moves: CONFUSION_FAST
@@ -23537,9 +23537,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 181
-      base_defense: 124
+      base_defense: 156
     }
     quick_moves: BUBBLE_FAST
     quick_moves: MUD_SHOT_FAST
@@ -23622,9 +23622,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 240
-      base_defense: 181
+      base_defense: 214
     }
     quick_moves: BUBBLE_FAST
     quick_moves: METAL_CLAW_FAST
@@ -23701,9 +23701,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 109
-      base_defense: 111
+      base_defense: 114
     }
     quick_moves: SPARK_FAST
     quick_moves: TACKLE_FAST
@@ -23786,9 +23786,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 173
-      base_defense: 173
+      base_defense: 179
     }
     quick_moves: SPARK_FAST
     quick_moves: VOLT_SWITCH_FAST
@@ -23866,9 +23866,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 107
-      base_defense: 125
+      base_defense: 140
     }
     quick_moves: CONFUSION_FAST
     quick_moves: BULLET_SEED_FAST
@@ -23952,9 +23952,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 233
-      base_defense: 149
+      base_defense: 158
     }
     quick_moves: BULLET_SEED_FAST
     quick_moves: EXTRASENSORY_FAST
@@ -24015,9 +24015,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 230
-      base_defense: 153
+      base_defense: 158
     }
     quick_moves: BULLET_SEED_FAST
     quick_moves: DRAGON_TAIL_FAST
@@ -24078,9 +24078,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 233
-      base_defense: 149
+      base_defense: 158
     }
     quick_moves: BULLET_SEED_FAST
     quick_moves: EXTRASENSORY_FAST
@@ -24157,9 +24157,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 90
-      base_defense: 144
+      base_defense: 165
     }
     quick_moves: MUD_SLAP_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -24242,9 +24242,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 144
-      base_defense: 186
+      base_defense: 200
     }
     quick_moves: MUD_SLAP_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -24304,9 +24304,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 144
-      base_defense: 186
+      base_defense: 200
     }
     quick_moves: HEX_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -24365,9 +24365,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 144
-      base_defense: 186
+      base_defense: 200
     }
     quick_moves: MUD_SLAP_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -24443,9 +24443,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 224
-      base_defense: 181
+      base_defense: 211
     }
     quick_moves: LOW_KICK_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -24522,9 +24522,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 193
-      base_defense: 197
+      base_defense: 212
     }
     quick_moves: BULLET_PUNCH_FAST
     quick_moves: COUNTER_FAST
@@ -24602,7 +24602,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 108
       base_defense: 137
     }
@@ -24680,9 +24680,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 119
-      base_defense: 141
+      base_defense: 164
     }
     quick_moves: TACKLE_FAST
     quick_moves: INFESTATION_FAST
@@ -24748,9 +24748,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 174
-      base_defense: 197
+      base_defense: 221
     }
     quick_moves: TACKLE_FAST
     quick_moves: INFESTATION_FAST
@@ -24828,9 +24828,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 140
-      base_defense: 127
+      base_defense: 157
     }
     quick_moves: MUD_SLAP_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -24896,9 +24896,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 233
+      base_stamina: 210
       base_attack: 222
-      base_defense: 171
+      base_defense: 206
     }
     quick_moves: MUD_SLAP_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -24956,9 +24956,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 487
+      base_stamina: 500
       base_attack: 60
-      base_defense: 128
+      base_defense: 176
     }
     quick_moves: POUND_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -25039,9 +25039,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 183
-      base_defense: 169
+      base_defense: 205
     }
     quick_moves: VINE_WHIP_FAST
     quick_moves: INFESTATION_FAST
@@ -25116,7 +25116,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 233
+      base_stamina: 210
       base_attack: 181
       base_defense: 165
     }
@@ -25195,9 +25195,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 129
-      base_defense: 103
+      base_defense: 125
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: BUBBLE_FAST
@@ -25281,9 +25281,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 187
-      base_defense: 156
+      base_defense: 182
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: DRAGON_BREATH_FAST
@@ -25365,9 +25365,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 123
-      base_defense: 110
+      base_defense: 115
     }
     quick_moves: PECK_FAST
     quick_moves: MUD_SHOT_FAST
@@ -25432,9 +25432,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 175
-      base_defense: 147
+      base_defense: 154
     }
     quick_moves: PECK_FAST
     quick_moves: 283
@@ -25492,7 +25492,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 137
       base_defense: 112
     }
@@ -25579,7 +25579,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 210
       base_defense: 184
     }
@@ -25659,9 +25659,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 192
-      base_defense: 205
+      base_defense: 233
     }
     quick_moves: CONFUSION_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -25738,7 +25738,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 218
       base_defense: 170
     }
@@ -25803,9 +25803,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 223
-      base_defense: 151
+      base_defense: 182
     }
     quick_moves: FROST_BREATH_FAST
     quick_moves: CONFUSION_FAST
@@ -25882,9 +25882,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 198
-      base_defense: 158
+      base_defense: 173
     }
     quick_moves: THUNDER_SHOCK_FAST
     quick_moves: LOW_KICK_FAST
@@ -25961,9 +25961,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 206
-      base_defense: 154
+      base_defense: 169
     }
     quick_moves: EMBER_FAST
     quick_moves: KARATE_CHOP_FAST
@@ -26040,9 +26040,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 238
-      base_defense: 182
+      base_defense: 197
     }
     quick_moves: ROCK_SMASH_FAST
     quick_moves: BUG_BITE_FAST
@@ -26099,9 +26099,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 198
-      base_defense: 183
+      base_defense: 197
     }
     quick_moves: TACKLE_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -26176,9 +26176,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 85
+      base_stamina: 40
       base_attack: 29
-      base_defense: 85
+      base_defense: 102
     }
     quick_moves: SPLASH_FAST
     cinematic_moves: STRUGGLE
@@ -26241,9 +26241,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 237
-      base_defense: 186
+      base_defense: 197
     }
     quick_moves: BITE_FAST
     quick_moves: 283
@@ -26321,9 +26321,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 277
+      base_stamina: 260
       base_attack: 165
-      base_defense: 174
+      base_defense: 180
     }
     quick_moves: FROST_BREATH_FAST
     quick_moves: WATER_GUN_FAST
@@ -26398,7 +26398,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 134
+      base_stamina: 96
       base_attack: 91
       base_defense: 91
     }
@@ -26470,9 +26470,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 104
-      base_defense: 114
+      base_defense: 121
     }
     quick_moves: QUICK_ATTACK_FAST
     quick_moves: TACKLE_FAST
@@ -26573,9 +26573,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 277
+      base_stamina: 260
       base_attack: 205
-      base_defense: 161
+      base_defense: 177
     }
     quick_moves: WATER_GUN_FAST
     cinematic_moves: WATER_PULSE
@@ -26652,9 +26652,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 232
-      base_defense: 182
+      base_defense: 201
     }
     quick_moves: THUNDER_SHOCK_FAST
     quick_moves: VOLT_SWITCH_FAST
@@ -26732,9 +26732,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 246
-      base_defense: 179
+      base_defense: 204
     }
     quick_moves: EMBER_FAST
     quick_moves: FIRE_SPIN_FAST
@@ -26811,9 +26811,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 153
-      base_defense: 136
+      base_defense: 139
     }
     quick_moves: CHARGE_BEAM_FAST
     quick_moves: HIDDEN_POWER_FAST
@@ -26876,9 +26876,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 155
-      base_defense: 153
+      base_defense: 174
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: MUD_SHOT_FAST
@@ -26943,9 +26943,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 207
-      base_defense: 201
+      base_defense: 227
     }
     quick_moves: MUD_SHOT_FAST
     quick_moves: WATER_GUN_FAST
@@ -27004,9 +27004,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 148
-      base_defense: 140
+      base_defense: 162
     }
     quick_moves: SCRATCH_FAST
     quick_moves: MUD_SHOT_FAST
@@ -27071,9 +27071,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 220
-      base_defense: 186
+      base_defense: 203
     }
     quick_moves: MUD_SHOT_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -27133,9 +27133,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 221
-      base_defense: 159
+      base_defense: 164
     }
     quick_moves: STEEL_WING_FAST
     quick_moves: BITE_FAST
@@ -27192,9 +27192,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 330
+      base_stamina: 320
       base_attack: 190
-      base_defense: 169
+      base_defense: 190
     }
     quick_moves: ZEN_HEADBUTT_FAST
     quick_moves: LICK_FAST
@@ -27253,9 +27253,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 192
-      base_defense: 236
+      base_defense: 249
     }
     quick_moves: FROST_BREATH_FAST
     cinematic_moves: ICE_BEAM
@@ -27314,9 +27314,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 253
-      base_defense: 185
+      base_defense: 188
     }
     quick_moves: CHARGE_BEAM_FAST
     cinematic_moves: ZAP_CANNON
@@ -27375,9 +27375,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 251
-      base_defense: 181
+      base_defense: 184
     }
     quick_moves: FIRE_SPIN_FAST
     cinematic_moves: FIRE_BLAST
@@ -27434,9 +27434,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 121
+      base_stamina: 82
       base_attack: 119
-      base_defense: 91
+      base_defense: 94
     }
     quick_moves: DRAGON_BREATH_FAST
     quick_moves: IRON_TAIL_FAST
@@ -27500,9 +27500,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 156
+      base_stamina: 122
       base_attack: 163
-      base_defense: 135
+      base_defense: 138
     }
     quick_moves: DRAGON_BREATH_FAST
     quick_moves: IRON_TAIL_FAST
@@ -27570,9 +27570,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 209
+      base_stamina: 182
       base_attack: 263
-      base_defense: 198
+      base_defense: 201
     }
     quick_moves: DRAGON_TAIL_FAST
     quick_moves: STEEL_WING_FAST
@@ -27630,7 +27630,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 214
+      base_stamina: 193
       base_attack: 300
       base_defense: 182
     }
@@ -27690,7 +27690,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 210
       base_defense: 210
     }
@@ -27793,7 +27793,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 92
       base_defense: 122
     }
@@ -27859,7 +27859,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 122
       base_defense: 155
     }
@@ -27926,7 +27926,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 168
       base_defense: 202
     }
@@ -27986,9 +27986,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 118
+      base_stamina: 78
       base_attack: 116
-      base_defense: 93
+      base_defense: 96
     }
     quick_moves: EMBER_FAST
     quick_moves: TACKLE_FAST
@@ -28052,9 +28052,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 151
+      base_stamina: 116
       base_attack: 158
-      base_defense: 126
+      base_defense: 129
     }
     quick_moves: EMBER_FAST
     quick_moves: TACKLE_FAST
@@ -28119,9 +28119,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 186
+      base_stamina: 156
       base_attack: 223
-      base_defense: 173
+      base_defense: 176
     }
     quick_moves: EMBER_FAST
     quick_moves: SHADOW_CLAW_FAST
@@ -28179,9 +28179,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 117
-      base_defense: 109
+      base_defense: 116
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: SCRATCH_FAST
@@ -28245,9 +28245,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 150
-      base_defense: 142
+      base_defense: 151
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: SCRATCH_FAST
@@ -28312,9 +28312,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 198
+      base_stamina: 170
       base_attack: 205
-      base_defense: 188
+      base_defense: 197
     }
     quick_moves: 283
     quick_moves: BITE_FAST
@@ -28372,9 +28372,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 79
-      base_defense: 73
+      base_defense: 77
     }
     quick_moves: SCRATCH_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -28438,9 +28438,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 198
+      base_stamina: 170
       base_attack: 148
-      base_defense: 125
+      base_defense: 130
     }
     quick_moves: QUICK_ATTACK_FAST
     quick_moves: SUCKER_PUNCH_FAST
@@ -28498,9 +28498,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 67
-      base_defense: 88
+      base_defense: 101
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: PECK_FAST
@@ -28566,9 +28566,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 145
-      base_defense: 156
+      base_defense: 179
     }
     quick_moves: WING_ATTACK_FAST
     quick_moves: EXTRASENSORY_FAST
@@ -28628,9 +28628,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 72
-      base_defense: 118
+      base_defense: 142
     }
     quick_moves: TACKLE_FAST
     quick_moves: BUG_BITE_FAST
@@ -28697,9 +28697,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 107
-      base_defense: 179
+      base_defense: 209
     }
     quick_moves: STRUGGLE_BUG_FAST
     quick_moves: BUG_BITE_FAST
@@ -28758,7 +28758,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 105
       base_defense: 73
     }
@@ -28825,9 +28825,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 161
-      base_defense: 124
+      base_defense: 128
     }
     quick_moves: POISON_STING_FAST
     quick_moves: INFESTATION_FAST
@@ -28888,7 +28888,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 198
+      base_stamina: 170
       base_attack: 194
       base_defense: 178
     }
@@ -28950,9 +28950,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 106
-      base_defense: 97
+      base_defense: 106
     }
     quick_moves: BUBBLE_FAST
     quick_moves: SPARK_FAST
@@ -29018,9 +29018,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 268
+      base_stamina: 250
       base_attack: 146
-      base_defense: 137
+      base_defense: 146
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: CHARGE_BEAM_FAST
@@ -29077,9 +29077,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 85
+      base_stamina: 40
       base_attack: 77
-      base_defense: 53
+      base_defense: 63
     }
     quick_moves: THUNDER_SHOCK_FAST
     cinematic_moves: THUNDERBOLT
@@ -29140,9 +29140,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 75
-      base_defense: 79
+      base_defense: 91
     }
     quick_moves: POUND_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -29206,9 +29206,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 69
-      base_defense: 32
+      base_defense: 34
     }
     quick_moves: POUND_FAST
     quick_moves: FEINT_ATTACK_FAST
@@ -29269,7 +29269,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 67
       base_defense: 116
     }
@@ -29338,9 +29338,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 139
-      base_defense: 181
+      base_defense: 191
     }
     quick_moves: EXTRASENSORY_FAST
     quick_moves: HIDDEN_POWER_FAST
@@ -29398,7 +29398,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 134
       base_defense: 89
     }
@@ -29467,7 +29467,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 192
       base_defense: 146
     }
@@ -29527,9 +29527,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 114
-      base_defense: 79
+      base_defense: 82
     }
     quick_moves: TACKLE_FAST
     quick_moves: THUNDER_SHOCK_FAST
@@ -29593,9 +29593,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 145
-      base_defense: 109
+      base_defense: 112
     }
     quick_moves: TACKLE_FAST
     quick_moves: CHARGE_BEAM_FAST
@@ -29660,9 +29660,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 211
-      base_defense: 169
+      base_defense: 172
     }
     quick_moves: CHARGE_BEAM_FAST
     quick_moves: VOLT_SWITCH_FAST
@@ -29722,9 +29722,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 169
-      base_defense: 186
+      base_defense: 189
     }
     quick_moves: RAZOR_LEAF_FAST
     quick_moves: ACID_FAST
@@ -29782,7 +29782,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 37
       base_defense: 93
     }
@@ -29850,7 +29850,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 112
       base_defense: 152
     }
@@ -29907,9 +29907,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 167
-      base_defense: 176
+      base_defense: 198
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: COUNTER_FAST
@@ -29967,9 +29967,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 174
-      base_defense: 179
+      base_defense: 192
     }
     quick_moves: MUD_SHOT_FAST
     quick_moves: BUBBLE_FAST
@@ -30028,9 +30028,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 67
-      base_defense: 94
+      base_defense: 101
     }
     quick_moves: TACKLE_FAST
     quick_moves: BULLET_SEED_FAST
@@ -30097,9 +30097,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 91
-      base_defense: 120
+      base_defense: 127
     }
     quick_moves: TACKLE_FAST
     quick_moves: BULLET_SEED_FAST
@@ -30167,9 +30167,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 118
-      base_defense: 183
+      base_defense: 197
     }
     quick_moves: INFESTATION_FAST
     quick_moves: BULLET_SEED_FAST
@@ -30227,7 +30227,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 136
       base_defense: 112
     }
@@ -30285,7 +30285,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 55
       base_defense: 55
     }
@@ -30353,9 +30353,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 185
-      base_defense: 135
+      base_defense: 148
     }
     quick_moves: RAZOR_LEAF_FAST
     quick_moves: BULLET_SEED_FAST
@@ -30414,7 +30414,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 154
       base_defense: 94
     }
@@ -30473,9 +30473,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 75
-      base_defense: 66
+      base_defense: 75
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: MUD_SHOT_FAST
@@ -30540,9 +30540,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 152
-      base_defense: 143
+      base_defense: 152
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: MUD_SHOT_FAST
@@ -30601,9 +30601,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 261
-      base_defense: 175
+      base_defense: 194
     }
     quick_moves: CONFUSION_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -30661,9 +30661,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 126
-      base_defense: 240
+      base_defense: 250
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: SNARL_FAST
@@ -30720,7 +30720,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 175
       base_defense: 87
     }
@@ -30781,9 +30781,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 177
-      base_defense: 180
+      base_defense: 194
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: CONFUSION_FAST
@@ -30860,9 +30860,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 167
-      base_defense: 154
+      base_defense: 167
     }
     quick_moves: ASTONISH_FAST
     quick_moves: HEX_FAST
@@ -30938,7 +30938,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 134
+      base_stamina: 96
       base_attack: 136
       base_defense: 91
     }
@@ -31011,7 +31011,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 382
+      base_stamina: 380
       base_attack: 60
       base_defense: 106
     }
@@ -31088,7 +31088,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 182
       base_defense: 133
     }
@@ -31165,9 +31165,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 108
-      base_defense: 122
+      base_defense: 146
     }
     quick_moves: TACKLE_FAST
     quick_moves: BUG_BITE_FAST
@@ -31251,9 +31251,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 161
-      base_defense: 205
+      base_defense: 242
     }
     quick_moves: BUG_BITE_FAST
     quick_moves: STRUGGLE_BUG_FAST
@@ -31329,9 +31329,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 131
-      base_defense: 128
+      base_defense: 131
     }
     quick_moves: BITE_FAST
     quick_moves: ASTONISH_FAST
@@ -31407,9 +31407,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 143
-      base_defense: 184
+      base_defense: 204
     }
     quick_moves: FURY_CUTTER_FAST
     quick_moves: WING_ATTACK_FAST
@@ -31484,9 +31484,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 148
-      base_defense: 272
+      base_defense: 333
     }
     quick_moves: IRON_TAIL_FAST
     quick_moves: DRAGON_TAIL_FAST
@@ -31562,9 +31562,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 137
-      base_defense: 85
+      base_defense: 89
     }
     quick_moves: TACKLE_FAST
     quick_moves: BITE_FAST
@@ -31646,9 +31646,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 212
-      base_defense: 131
+      base_defense: 137
     }
     quick_moves: BITE_FAST
     quick_moves: SNARL_FAST
@@ -31726,9 +31726,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 184
-      base_defense: 138
+      base_defense: 148
     }
     quick_moves: POISON_STING_FAST
     quick_moves: WATER_GUN_FAST
@@ -31805,9 +31805,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 236
-      base_defense: 181
+      base_defense: 191
     }
     quick_moves: BULLET_PUNCH_FAST
     quick_moves: FURY_CUTTER_FAST
@@ -31884,7 +31884,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 85
+      base_stamina: 40
       base_attack: 17
       base_defense: 396
     }
@@ -31961,9 +31961,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 234
-      base_defense: 179
+      base_defense: 189
     }
     quick_moves: COUNTER_FAST
     quick_moves: STRUGGLE_BUG_FAST
@@ -32039,9 +32039,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 189
-      base_defense: 146
+      base_defense: 157
     }
     quick_moves: ICE_SHARD_FAST
     quick_moves: FEINT_ATTACK_FAST
@@ -32115,7 +32115,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 142
       base_defense: 93
     }
@@ -32199,7 +32199,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 236
       base_defense: 144
     }
@@ -32277,7 +32277,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 118
       base_defense: 71
     }
@@ -32362,9 +32362,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 139
-      base_defense: 191
+      base_defense: 209
     }
     quick_moves: EMBER_FAST
     quick_moves: ROCK_THROW_FAST
@@ -32440,9 +32440,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 90
-      base_defense: 69
+      base_defense: 74
     }
     quick_moves: TACKLE_FAST
     quick_moves: POWDER_SNOW_FAST
@@ -32525,9 +32525,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 181
-      base_defense: 138
+      base_defense: 147
     }
     quick_moves: ICE_SHARD_FAST
     quick_moves: POWDER_SNOW_FAST
@@ -32603,7 +32603,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 118
       base_defense: 156
     }
@@ -32680,7 +32680,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 127
       base_defense: 69
     }
@@ -32764,7 +32764,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 197
       base_defense: 141
     }
@@ -32842,7 +32842,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 128
       base_defense: 90
     }
@@ -32919,9 +32919,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 148
-      base_defense: 226
+      base_defense: 260
     }
     quick_moves: BUBBLE_FAST
     quick_moves: WING_ATTACK_FAST
@@ -32998,9 +32998,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 148
-      base_defense: 226
+      base_defense: 260
     }
     quick_moves: STEEL_WING_FAST
     quick_moves: AIR_SLASH_FAST
@@ -33076,9 +33076,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 152
-      base_defense: 83
+      base_defense: 93
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: EMBER_FAST
@@ -33161,9 +33161,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 224
-      base_defense: 144
+      base_defense: 159
     }
     quick_moves: SNARL_FAST
     quick_moves: FIRE_FANG_FAST
@@ -33242,7 +33242,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 194
       base_defense: 194
     }
@@ -33319,9 +33319,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 107
-      base_defense: 98
+      base_defense: 107
     }
     quick_moves: TACKLE_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -33403,9 +33403,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 214
-      base_defense: 185
+      base_defense: 214
     }
     quick_moves: TACKLE_FAST
     quick_moves: COUNTER_FAST
@@ -33484,9 +33484,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 198
+      base_stamina: 170
       base_attack: 198
-      base_defense: 180
+      base_defense: 183
     }
     quick_moves: HIDDEN_POWER_FAST
     quick_moves: CHARGE_BEAM_FAST
@@ -33561,9 +33561,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 177
+      base_stamina: 146
       base_attack: 192
-      base_defense: 131
+      base_defense: 132
     }
     quick_moves: TACKLE_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -33638,9 +33638,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 40
-      base_defense: 83
+      base_defense: 88
     }
     quick_moves: TACKLE_FAST
     cinematic_moves: STRUGGLE
@@ -33711,7 +33711,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 64
       base_defense: 64
     }
@@ -33803,9 +33803,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 173
-      base_defense: 207
+      base_defense: 214
     }
     quick_moves: ROCK_SMASH_FAST
     quick_moves: COUNTER_FAST
@@ -33880,9 +33880,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 153
-      base_defense: 91
+      base_defense: 116
     }
     quick_moves: POWDER_SNOW_FAST
     quick_moves: POUND_FAST
@@ -33962,9 +33962,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 135
-      base_defense: 101
+      base_defense: 110
     }
     quick_moves: THUNDER_SHOCK_FAST
     quick_moves: LOW_KICK_FAST
@@ -34044,9 +34044,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 151
-      base_defense: 99
+      base_defense: 108
     }
     quick_moves: EMBER_FAST
     quick_moves: KARATE_CHOP_FAST
@@ -34127,9 +34127,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 157
-      base_defense: 193
+      base_defense: 211
     }
     quick_moves: TACKLE_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -34204,9 +34204,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 496
+      base_stamina: 510
       base_attack: 129
-      base_defense: 169
+      base_defense: 229
     }
     quick_moves: POUND_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -34282,9 +34282,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 241
-      base_defense: 195
+      base_defense: 210
     }
     quick_moves: THUNDER_SHOCK_FAST
     quick_moves: VOLT_SWITCH_FAST
@@ -34360,9 +34360,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 251
+      base_stamina: 230
       base_attack: 235
-      base_defense: 171
+      base_defense: 176
     }
     quick_moves: FIRE_SPIN_FAST
     quick_moves: FIRE_FANG_FAST
@@ -34439,7 +34439,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 180
       base_defense: 235
     }
@@ -34519,7 +34519,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 115
       base_defense: 93
     }
@@ -34605,7 +34605,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 155
       base_defense: 133
     }
@@ -34692,9 +34692,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 251
-      base_defense: 207
+      base_defense: 212
     }
     quick_moves: BITE_FAST
     quick_moves: IRON_TAIL_FAST
@@ -34772,9 +34772,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 235
+      base_stamina: 212
       base_attack: 193
-      base_defense: 310
+      base_defense: 323
     }
     quick_moves: EXTRASENSORY_FAST
     quick_moves: DRAGON_TAIL_FAST
@@ -34852,9 +34852,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 214
+      base_stamina: 193
       base_attack: 239
-      base_defense: 244
+      base_defense: 274
     }
     quick_moves: EXTRASENSORY_FAST
     quick_moves: STEEL_WING_FAST
@@ -34932,7 +34932,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 210
       base_defense: 210
     }
@@ -35010,9 +35010,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 124
-      base_defense: 94
+      base_defense: 104
     }
     quick_moves: POUND_FAST
     quick_moves: BULLET_SEED_FAST
@@ -35092,9 +35092,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 172
-      base_defense: 120
+      base_defense: 130
     }
     quick_moves: QUICK_ATTACK_FAST
     quick_moves: BULLET_SEED_FAST
@@ -35176,9 +35176,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 223
-      base_defense: 169
+      base_defense: 180
     }
     quick_moves: FURY_CUTTER_FAST
     quick_moves: BULLET_SEED_FAST
@@ -35254,9 +35254,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 130
-      base_defense: 87
+      base_defense: 92
     }
     quick_moves: SCRATCH_FAST
     quick_moves: EMBER_FAST
@@ -35338,7 +35338,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 163
       base_defense: 115
     }
@@ -35424,7 +35424,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 240
       base_defense: 141
     }
@@ -35503,7 +35503,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 126
       base_defense: 93
     }
@@ -35587,7 +35587,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 156
       base_defense: 133
     }
@@ -35671,7 +35671,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 208
       base_defense: 175
     }
@@ -35749,9 +35749,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 96
-      base_defense: 61
+      base_defense: 63
     }
     quick_moves: TACKLE_FAST
     quick_moves: SNARL_FAST
@@ -35832,9 +35832,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 171
-      base_defense: 132
+      base_defense: 137
     }
     quick_moves: BITE_FAST
     quick_moves: FIRE_FANG_FAST
@@ -35909,7 +35909,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 116
+      base_stamina: 76
       base_attack: 58
       base_defense: 80
     }
@@ -35991,7 +35991,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 186
+      base_stamina: 156
       base_attack: 142
       base_defense: 128
     }
@@ -36069,9 +36069,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 75
-      base_defense: 59
+      base_defense: 61
     }
     quick_moves: TACKLE_FAST
     quick_moves: BUG_BITE_FAST
@@ -36154,9 +36154,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 60
-      base_defense: 77
+      base_defense: 91
     }
     quick_moves: POISON_STING_FAST
     quick_moves: BUG_BITE_FAST
@@ -36238,7 +36238,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 189
       base_defense: 98
     }
@@ -36319,9 +36319,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 60
-      base_defense: 77
+      base_defense: 91
     }
     quick_moves: POISON_STING_FAST
     quick_moves: BUG_BITE_FAST
@@ -36402,9 +36402,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 98
-      base_defense: 162
+      base_defense: 172
     }
     quick_moves: STRUGGLE_BUG_FAST
     quick_moves: CONFUSION_FAST
@@ -36482,9 +36482,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 71
-      base_defense: 77
+      base_defense: 86
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: RAZOR_LEAF_FAST
@@ -36565,9 +36565,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 112
-      base_defense: 119
+      base_defense: 128
     }
     quick_moves: BUBBLE_FAST
     quick_moves: RAZOR_LEAF_FAST
@@ -36651,9 +36651,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 173
-      base_defense: 176
+      base_defense: 191
     }
     quick_moves: BUBBLE_FAST
     quick_moves: RAZOR_LEAF_FAST
@@ -36730,9 +36730,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 71
-      base_defense: 77
+      base_defense: 86
     }
     quick_moves: BULLET_SEED_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -36813,7 +36813,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 134
       base_defense: 78
     }
@@ -36899,7 +36899,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 200
       base_defense: 121
     }
@@ -36979,7 +36979,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 106
       base_defense: 61
     }
@@ -37062,9 +37062,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 185
-      base_defense: 124
+      base_defense: 130
     }
     quick_moves: WING_ATTACK_FAST
     quick_moves: STEEL_WING_FAST
@@ -37142,7 +37142,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 106
       base_defense: 61
     }
@@ -37228,9 +37228,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 175
-      base_defense: 174
+      base_defense: 189
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: WING_ATTACK_FAST
@@ -37308,9 +37308,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 99
+      base_stamina: 56
       base_attack: 79
-      base_defense: 59
+      base_defense: 63
     }
     quick_moves: CONFUSION_FAST
     quick_moves: CHARGE_BEAM_FAST
@@ -37392,9 +37392,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 116
+      base_stamina: 76
       base_attack: 117
-      base_defense: 90
+      base_defense: 100
     }
     quick_moves: CONFUSION_FAST
     quick_moves: CHARGE_BEAM_FAST
@@ -37476,9 +37476,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 169
+      base_stamina: 136
       base_attack: 237
-      base_defense: 195
+      base_defense: 220
     }
     quick_moves: CONFUSION_FAST
     quick_moves: CHARGE_BEAM_FAST
@@ -37555,9 +37555,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 93
-      base_defense: 87
+      base_defense: 97
     }
     quick_moves: BUBBLE_FAST
     quick_moves: BUG_BITE_FAST
@@ -37639,9 +37639,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 192
-      base_defense: 150
+      base_defense: 161
     }
     quick_moves: INFESTATION_FAST
     quick_moves: AIR_SLASH_FAST
@@ -37717,7 +37717,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 74
       base_defense: 110
     }
@@ -37800,9 +37800,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 241
-      base_defense: 144
+      base_defense: 153
     }
     quick_moves: COUNTER_FAST
     quick_moves: BULLET_SEED_FAST
@@ -37876,9 +37876,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 104
-      base_defense: 92
+      base_defense: 104
     }
     quick_moves: 287
     cinematic_moves: BODY_SLAM
@@ -37958,9 +37958,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 159
-      base_defense: 145
+      base_defense: 159
     }
     quick_moves: SCRATCH_FAST
     quick_moves: COUNTER_FAST
@@ -38041,9 +38041,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 284
+      base_stamina: 273
       base_attack: 290
-      base_defense: 166
+      base_defense: 183
     }
     quick_moves: 287
     cinematic_moves: HYPER_BEAM
@@ -38119,9 +38119,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 104
+      base_stamina: 62
       base_attack: 80
-      base_defense: 126
+      base_defense: 153
     }
     quick_moves: SCRATCH_FAST
     quick_moves: BUG_BITE_FAST
@@ -38207,9 +38207,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 156
+      base_stamina: 122
       base_attack: 196
-      base_defense: 112
+      base_defense: 114
     }
     quick_moves: FURY_CUTTER_FAST
     quick_moves: METAL_CLAW_FAST
@@ -38289,9 +38289,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 51
+      base_stamina: 2
       base_attack: 153
-      base_defense: 73
+      base_defense: 80
     }
     quick_moves: BITE_FAST
     quick_moves: STRUGGLE_BUG_FAST
@@ -38367,7 +38367,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 162
+      base_stamina: 128
       base_attack: 92
       base_defense: 42
     }
@@ -38449,7 +38449,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 197
+      base_stamina: 168
       base_attack: 134
       base_defense: 81
     }
@@ -38533,9 +38533,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 232
+      base_stamina: 208
       base_attack: 179
-      base_defense: 137
+      base_defense: 142
     }
     quick_moves: BITE_FAST
     quick_moves: ASTONISH_FAST
@@ -38611,7 +38611,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 176
+      base_stamina: 144
       base_attack: 99
       base_defense: 54
     }
@@ -38694,7 +38694,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 302
+      base_stamina: 288
       base_attack: 209
       base_defense: 114
     }
@@ -38773,7 +38773,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 36
       base_defense: 71
     }
@@ -38854,9 +38854,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 82
-      base_defense: 215
+      base_defense: 236
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: SPARK_FAST
@@ -38932,9 +38932,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 84
-      base_defense: 79
+      base_defense: 84
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: TACKLE_FAST
@@ -38996,9 +38996,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 132
-      base_defense: 127
+      base_defense: 132
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -39057,9 +39057,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 141
-      base_defense: 136
+      base_defense: 141
     }
     quick_moves: SHADOW_CLAW_FAST
     quick_moves: FEINT_ATTACK_FAST
@@ -39116,9 +39116,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 155
-      base_defense: 141
+      base_defense: 155
     }
     quick_moves: BITE_FAST
     quick_moves: ASTONISH_FAST
@@ -39175,9 +39175,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 121
-      base_defense: 141
+      base_defense: 168
     }
     quick_moves: TACKLE_FAST
     quick_moves: METAL_CLAW_FAST
@@ -39240,9 +39240,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 158
-      base_defense: 198
+      base_defense: 240
     }
     quick_moves: METAL_CLAW_FAST
     quick_moves: IRON_TAIL_FAST
@@ -39307,9 +39307,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 198
-      base_defense: 257
+      base_defense: 314
     }
     quick_moves: DRAGON_TAIL_FAST
     quick_moves: IRON_TAIL_FAST
@@ -39368,7 +39368,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 102
+      base_stamina: 60
       base_attack: 78
       base_defense: 107
     }
@@ -39433,7 +39433,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 121
       base_defense: 152
     }
@@ -39493,7 +39493,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 123
       base_defense: 78
     }
@@ -39558,7 +39558,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 215
       base_defense: 127
     }
@@ -39618,9 +39618,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 167
-      base_defense: 129
+      base_defense: 147
     }
     quick_moves: SPARK_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -39677,9 +39677,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 147
-      base_defense: 150
+      base_defense: 167
     }
     quick_moves: SPARK_FAST
     quick_moves: QUICK_ATTACK_FAST
@@ -39736,9 +39736,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 143
-      base_defense: 166
+      base_defense: 171
     }
     quick_moves: STRUGGLE_BUG_FAST
     quick_moves: TACKLE_FAST
@@ -39795,9 +39795,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 143
-      base_defense: 166
+      base_defense: 171
     }
     quick_moves: STRUGGLE_BUG_FAST
     quick_moves: TACKLE_FAST
@@ -39855,9 +39855,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 186
-      base_defense: 131
+      base_defense: 148
     }
     quick_moves: POISON_JAB_FAST
     quick_moves: RAZOR_LEAF_FAST
@@ -39913,7 +39913,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 80
       base_defense: 99
     }
@@ -39977,7 +39977,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 140
       base_defense: 159
     }
@@ -40039,7 +40039,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 171
       base_defense: 39
     }
@@ -40106,7 +40106,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 243
       base_defense: 83
     }
@@ -40167,7 +40167,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 277
+      base_stamina: 260
       base_attack: 136
       base_defense: 68
     }
@@ -40231,7 +40231,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 347
+      base_stamina: 340
       base_attack: 175
       base_defense: 87
     }
@@ -40292,9 +40292,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 119
-      base_defense: 79
+      base_defense: 82
     }
     quick_moves: EMBER_FAST
     quick_moves: TACKLE_FAST
@@ -40356,9 +40356,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 194
-      base_defense: 136
+      base_defense: 139
     }
     quick_moves: EMBER_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -40415,9 +40415,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 151
-      base_defense: 203
+      base_defense: 234
     }
     quick_moves: FIRE_SPIN_FAST
     quick_moves: EMBER_FAST
@@ -40473,9 +40473,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 125
-      base_defense: 122
+      base_defense: 145
     }
     quick_moves: SPLASH_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -40537,9 +40537,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 171
-      base_defense: 188
+      base_defense: 211
     }
     quick_moves: CHARGE_BEAM_FAST
     quick_moves: EXTRASENSORY_FAST
@@ -40597,7 +40597,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 116
       base_defense: 116
     }
@@ -40656,7 +40656,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 162
       base_defense: 78
     }
@@ -40722,7 +40722,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 134
       base_defense: 99
     }
@@ -40790,7 +40790,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 205
       base_defense: 168
     }
@@ -40850,7 +40850,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 156
       base_defense: 74
     }
@@ -40916,7 +40916,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 221
       base_defense: 115
     }
@@ -40977,9 +40977,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 76
-      base_defense: 132
+      base_defense: 139
     }
     quick_moves: PECK_FAST
     quick_moves: ASTONISH_FAST
@@ -41044,9 +41044,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 141
-      base_defense: 201
+      base_defense: 208
     }
     quick_moves: PECK_FAST
     quick_moves: DRAGON_BREATH_FAST
@@ -41104,7 +41104,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 177
+      base_stamina: 146
       base_attack: 222
       base_defense: 124
     }
@@ -41163,7 +41163,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 177
+      base_stamina: 146
       base_attack: 196
       base_defense: 118
     }
@@ -41223,9 +41223,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 178
-      base_defense: 153
+      base_defense: 163
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: CONFUSION_FAST
@@ -41284,9 +41284,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 178
-      base_defense: 153
+      base_defense: 163
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: CONFUSION_FAST
@@ -41345,9 +41345,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 93
-      base_defense: 82
+      base_defense: 83
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: MUD_SHOT_FAST
@@ -41411,9 +41411,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 242
+      base_stamina: 220
       base_attack: 151
-      base_defense: 141
+      base_defense: 142
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: MUD_SHOT_FAST
@@ -41471,9 +41471,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 125
+      base_stamina: 86
       base_attack: 141
-      base_defense: 99
+      base_defense: 113
     }
     quick_moves: BUBBLE_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -41536,9 +41536,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 160
+      base_stamina: 126
       base_attack: 224
-      base_defense: 142
+      base_defense: 156
     }
     quick_moves: 283
     quick_moves: SNARL_FAST
@@ -41598,9 +41598,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 77
-      base_defense: 124
+      base_defense: 131
     }
     quick_moves: CONFUSION_FAST
     quick_moves: EXTRASENSORY_FAST
@@ -41664,9 +41664,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 140
-      base_defense: 229
+      base_defense: 236
     }
     quick_moves: EXTRASENSORY_FAST
     quick_moves: CONFUSION_FAST
@@ -41724,9 +41724,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 165
+      base_stamina: 132
       base_attack: 105
-      base_defense: 150
+      base_defense: 154
     }
     quick_moves: ACID_FAST
     quick_moves: INFESTATION_FAST
@@ -41789,9 +41789,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 200
+      base_stamina: 172
       base_attack: 152
-      base_defense: 194
+      base_defense: 198
     }
     quick_moves: ACID_FAST
     quick_moves: INFESTATION_FAST
@@ -41850,7 +41850,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 176
       base_defense: 100
     }
@@ -41916,9 +41916,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 222
-      base_defense: 174
+      base_defense: 183
     }
     quick_moves: FURY_CUTTER_FAST
     quick_moves: STRUGGLE_BUG_FAST
@@ -41977,9 +41977,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 85
+      base_stamina: 40
       base_attack: 29
-      base_defense: 85
+      base_defense: 102
     }
     quick_moves: SPLASH_FAST
     quick_moves: TACKLE_FAST
@@ -42039,9 +42039,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 192
-      base_defense: 219
+      base_defense: 242
     }
     quick_moves: 283
     quick_moves: DRAGON_TAIL_FAST
@@ -42100,7 +42100,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 139
       base_defense: 139
     }
@@ -42158,7 +42158,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 139
       base_defense: 139
     }
@@ -42216,7 +42216,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 139
       base_defense: 139
     }
@@ -42274,7 +42274,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 139
       base_defense: 139
     }
@@ -42332,7 +42332,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 139
       base_defense: 139
     }
@@ -42389,9 +42389,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 161
-      base_defense: 189
+      base_defense: 212
     }
     quick_moves: LICK_FAST
     quick_moves: SUCKER_PUNCH_FAST
@@ -42451,9 +42451,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 127
+      base_stamina: 88
       base_attack: 138
-      base_defense: 65
+      base_defense: 66
     }
     quick_moves: FEINT_ATTACK_FAST
     quick_moves: ASTONISH_FAST
@@ -42515,9 +42515,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 162
+      base_stamina: 128
       base_attack: 218
-      base_defense: 126
+      base_defense: 127
     }
     quick_moves: HEX_FAST
     quick_moves: SHADOW_CLAW_FAST
@@ -42575,7 +42575,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 85
+      base_stamina: 40
       base_attack: 70
       base_defense: 162
     }
@@ -42640,7 +42640,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 124
       base_defense: 234
     }
@@ -42702,9 +42702,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 223
+      base_stamina: 198
       base_attack: 136
-      base_defense: 163
+      base_defense: 165
     }
     quick_moves: AIR_SLASH_FAST
     quick_moves: RAZOR_LEAF_FAST
@@ -42763,9 +42763,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 181
+      base_stamina: 150
       base_attack: 175
-      base_defense: 170
+      base_defense: 174
     }
     quick_moves: EXTRASENSORY_FAST
     quick_moves: ASTONISH_FAST
@@ -42821,7 +42821,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 246
       base_defense: 120
     }
@@ -42879,7 +42879,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 41
       base_defense: 86
     }
@@ -42940,7 +42940,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 95
       base_defense: 95
     }
@@ -43005,7 +43005,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 162
       base_defense: 162
     }
@@ -43066,7 +43066,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 172
+      base_stamina: 140
       base_attack: 95
       base_defense: 90
     }
@@ -43132,7 +43132,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 207
+      base_stamina: 180
       base_attack: 137
       base_defense: 132
     }
@@ -43199,7 +43199,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 242
+      base_stamina: 220
       base_attack: 182
       base_defense: 176
     }
@@ -43257,9 +43257,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 111
+      base_stamina: 70
       base_attack: 133
-      base_defense: 135
+      base_defense: 149
     }
     quick_moves: WATER_GUN_FAST
     cinematic_moves: BODY_SLAM
@@ -43324,9 +43324,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 197
-      base_defense: 179
+      base_defense: 194
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: BITE_FAST
@@ -43386,9 +43386,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 146
+      base_stamina: 110
       base_attack: 211
-      base_defense: 179
+      base_defense: 194
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: CONFUSION_FAST
@@ -43448,9 +43448,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 162
-      base_defense: 203
+      base_defense: 234
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -43508,9 +43508,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 125
+      base_stamina: 86
       base_attack: 81
-      base_defense: 128
+      base_defense: 134
     }
     quick_moves: WATER_GUN_FAST
     quick_moves: SPLASH_FAST
@@ -43566,9 +43566,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 128
+      base_stamina: 90
       base_attack: 134
-      base_defense: 93
+      base_defense: 107
     }
     quick_moves: BITE_FAST
     quick_moves: EMBER_FAST
@@ -43630,9 +43630,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 163
+      base_stamina: 130
       base_attack: 172
-      base_defense: 155
+      base_defense: 179
     }
     quick_moves: EMBER_FAST
     quick_moves: DRAGON_BREATH_FAST
@@ -43698,7 +43698,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 216
+      base_stamina: 190
       base_attack: 277
       base_defense: 168
     }
@@ -43760,9 +43760,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 120
+      base_stamina: 80
       base_attack: 96
-      base_defense: 132
+      base_defense: 141
     }
     quick_moves: 282
     cinematic_moves: STRUGGLE
@@ -43823,9 +43823,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 155
+      base_stamina: 120
       base_attack: 138
-      base_defense: 176
+      base_defense: 185
     }
     quick_moves: ZEN_HEADBUTT_FAST
     quick_moves: METAL_CLAW_FAST
@@ -43890,9 +43890,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 257
-      base_defense: 228
+      base_defense: 247
     }
     quick_moves: BULLET_PUNCH_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -43950,9 +43950,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 179
-      base_defense: 309
+      base_defense: 356
     }
     quick_moves: ROCK_THROW_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -44010,9 +44010,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 179
-      base_defense: 309
+      base_defense: 356
     }
     quick_moves: FROST_BREATH_FAST
     quick_moves: ROCK_SMASH_FAST
@@ -44070,7 +44070,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 143
       base_defense: 285
     }
@@ -44132,9 +44132,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 228
-      base_defense: 246
+      base_defense: 268
     }
     quick_moves: DRAGON_BREATH_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -44194,9 +44194,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 190
+      base_stamina: 160
       base_attack: 268
-      base_defense: 212
+      base_defense: 228
     }
     quick_moves: DRAGON_BREATH_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -44255,9 +44255,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 205
+      base_stamina: 182
       base_attack: 270
-      base_defense: 228
+      base_defense: 251
     }
     quick_moves: 283
     cinematic_moves: HYDRO_PUMP
@@ -44313,9 +44313,9 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 205
+      base_stamina: 182
       base_attack: 270
-      base_defense: 228
+      base_defense: 251
     }
     quick_moves: MUD_SHOT_FAST
     quick_moves: DRAGON_TAIL_FAST
@@ -44375,7 +44375,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 213
+      base_stamina: 191
       base_attack: 284
       base_defense: 170
     }
@@ -44437,7 +44437,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 225
+      base_stamina: 200
       base_attack: 210
       base_defense: 210
     }
@@ -44496,7 +44496,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 345
       base_defense: 115
     }
@@ -44556,7 +44556,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 414
       base_defense: 46
     }
@@ -44616,7 +44616,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 144
       base_defense: 330
     }
@@ -44676,7 +44676,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 345
       base_defense: 115
     }
@@ -44736,7 +44736,7 @@ item_templates {
       max_pokemon_action_frequency_s: 1.6
     }
     stats {
-      base_stamina: 137
+      base_stamina: 100
       base_attack: 230
       base_defense: 218
     }
@@ -57656,4 +57656,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1541103544382
+timestamp_ms: 1541104984439
