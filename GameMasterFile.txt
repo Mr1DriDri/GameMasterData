@@ -15136,8 +15136,7 @@ item_templates {
   gender_settings {
     pokemon: 416
     gender {
-      male_percent: 0.5
-      female_percent: 0.5
+      female_percent: 1
     }
   }
 }
@@ -48783,8 +48782,8 @@ item_templates {
     }
     stats {
       base_stamina: 155
-      base_attack: 127
-      base_defense: 175
+      base_attack: 141
+      base_defense: 180
     }
     quick_moves: CONFUSION_FAST
     quick_moves: BUG_BITE_FAST
@@ -48846,8 +48845,8 @@ item_templates {
     }
     stats {
       base_stamina: 155
-      base_attack: 141
-      base_defense: 180
+      base_attack: 127
+      base_defense: 175
     }
     quick_moves: CONFUSION_FAST
     quick_moves: BUG_BITE_FAST
@@ -53381,8 +53380,8 @@ item_templates {
     }
     stats {
       base_stamina: 137
-      base_attack: 204
-      base_defense: 219
+      base_attack: 185
+      base_defense: 159
     }
     quick_moves: TACKLE_FAST
     quick_moves: THUNDER_SHOCK_FAST
@@ -53681,8 +53680,8 @@ item_templates {
     }
     stats {
       base_stamina: 137
-      base_attack: 204
-      base_defense: 219
+      base_attack: 185
+      base_defense: 159
     }
     quick_moves: TACKLE_FAST
     quick_moves: THUNDER_SHOCK_FAST
@@ -53741,8 +53740,8 @@ item_templates {
     }
     stats {
       base_stamina: 137
-      base_attack: 185
-      base_defense: 159
+      base_attack: 204
+      base_defense: 219
     }
     quick_moves: TACKLE_FAST
     quick_moves: THUNDER_SHOCK_FAST
@@ -54659,8 +54658,8 @@ item_templates {
     }
     stats {
       base_stamina: 225
-      base_attack: 261
-      base_defense: 166
+      base_attack: 210
+      base_defense: 210
     }
     quick_moves: HIDDEN_POWER_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -54718,8 +54717,8 @@ item_templates {
     }
     stats {
       base_stamina: 225
-      base_attack: 261
-      base_defense: 166
+      base_attack: 210
+      base_defense: 210
     }
     quick_moves: HIDDEN_POWER_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -54778,8 +54777,8 @@ item_templates {
     }
     stats {
       base_stamina: 225
-      base_attack: 210
-      base_defense: 210
+      base_attack: 261
+      base_defense: 166
     }
     quick_moves: HIDDEN_POWER_FAST
     quick_moves: ZEN_HEADBUTT_FAST
@@ -68818,4 +68817,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1541113372257
+timestamp_ms: 1541777414149
