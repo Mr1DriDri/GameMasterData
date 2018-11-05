@@ -1941,7 +1941,7 @@ item_templates {
     bundle_name: "f_shirt_celebi_bundle"
     asset_name: "f_shirt_celebi_0"
     group_name: "group_shirt"
-    sort_order: 69
+    sort_order: 68
     unlock_type: DEFAULT
     icon_name: "f_shirt_celebi_bundle_icon"
   }
@@ -2081,7 +2081,7 @@ item_templates {
     bundle_name: "f_shirt_drifblim_bundle"
     asset_name: "f_shirt_drifblim_0"
     group_name: "group_shirt"
-    sort_order: 60
+    sort_order: 63
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_drifblim_0"
     icon_name: "f_shirt_drifblim_0_bundle_icon"
@@ -2110,7 +2110,7 @@ item_templates {
     bundle_name: "f_shirt_fragment_bundle"
     asset_name: "f_shirt_fragment_0"
     group_name: "group_shirt"
-    sort_order: 67
+    sort_order: 66
     unlock_type: DEFAULT
     icon_name: "f_shirt_fragment_bundle_icon"
   }
@@ -2141,7 +2141,7 @@ item_templates {
     bundle_name: "f_shirt_gengar_bundle"
     asset_name: "f_shirt_gengar_0"
     group_name: "group_shirt"
-    sort_order: 66
+    sort_order: 65
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_gengar_0"
     icon_name: "f_shirt_gengar_0_bundle_icon"
@@ -2207,10 +2207,52 @@ item_templates {
     bundle_name: "f_shirt_hgss_bundle"
     asset_name: "f_shirt_hgss_0"
     group_name: "group_shirt"
-    sort_order: 68
+    sort_order: 67
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_hgss_0"
     icon_name: "f_shirt_hgss_bundle_icon"
+  }
+}
+item_templates {
+  template_id: "AVATAR_f_shirt_ingress_0"
+  avatar_customization {
+    enabled: true
+    avatar_type: PLAYER_AVATAR_FEMALE
+    slot: SHIRT
+    bundle_name: "f_shirt_ingress_bundle"
+    asset_name: "f_shirt_ingress_0"
+    group_name: "group_shirt"
+    sort_order: 60
+    unlock_type: DEFAULT
+    icon_name: "f_shirt_ingress_bundle_icon"
+  }
+}
+item_templates {
+  template_id: "AVATAR_f_shirt_ingress_e_0"
+  avatar_customization {
+    enabled: true
+    avatar_type: PLAYER_AVATAR_FEMALE
+    slot: SHIRT
+    bundle_name: "f_shirt_ingress_e_bundle"
+    asset_name: "f_shirt_ingress_e_0"
+    group_name: "group_shirt"
+    sort_order: 61
+    unlock_type: DEFAULT
+    icon_name: "f_shirt_ingress_e_bundle_icon"
+  }
+}
+item_templates {
+  template_id: "AVATAR_f_shirt_ingress_r_0"
+  avatar_customization {
+    enabled: true
+    avatar_type: PLAYER_AVATAR_FEMALE
+    slot: SHIRT
+    bundle_name: "f_shirt_ingress_r_bundle"
+    asset_name: "f_shirt_ingress_r_0"
+    group_name: "group_shirt"
+    sort_order: 62
+    unlock_type: DEFAULT
+    icon_name: "f_shirt_ingress_r_bundle_icon"
   }
 }
 item_templates {
@@ -2269,7 +2311,7 @@ item_templates {
     bundle_name: "f_shirt_spiritomb_bundle"
     asset_name: "f_shirt_spiritomb_0"
     group_name: "group_shirt"
-    sort_order: 65
+    sort_order: 64
     unlock_type: IAP_CLOTHING
     iap_sku: "pgorelease.avatar.f_shirt_spiritomb_0"
     icon_name: "f_shirt_spiritomb_0_bundle_icon"
@@ -2616,7 +2658,7 @@ item_templates {
     bundle_name: "f_shirt_tshirt_bundle"
     asset_name: "f_shirt_tshirt_fest_chicago_2018"
     group_name: "group_shirt"
-    sort_order: 70
+    sort_order: 69
     unlock_type: DEFAULT
     icon_name: "f_shirt_tshirt_fest_chicago_2018_bundle_icon"
   }
@@ -4695,6 +4737,45 @@ item_templates {
     iap_sku: "pgorelease.avatar.m_shirt_hgss_0"
     unlock_badge_level: 5
     icon_name: "m_shirt_hgss_bundle_icon"
+  }
+}
+item_templates {
+  template_id: "AVATAR_m_shirt_ingress_0"
+  avatar_customization {
+    enabled: true
+    slot: SHIRT
+    bundle_name: "m_shirt_ingress_bundle"
+    asset_name: "m_shirt_ingress_0"
+    group_name: "group_shirt"
+    sort_order: 1270
+    unlock_type: DEFAULT
+    icon_name: "m_shirt_ingress_bundle_icon"
+  }
+}
+item_templates {
+  template_id: "AVATAR_m_shirt_ingress_e_0"
+  avatar_customization {
+    enabled: true
+    slot: SHIRT
+    bundle_name: "m_shirt_ingress_e_bundle"
+    asset_name: "m_shirt_ingress_e_0"
+    group_name: "group_shirt"
+    sort_order: 1271
+    unlock_type: DEFAULT
+    icon_name: "m_shirt_ingress_e_bundle_icon"
+  }
+}
+item_templates {
+  template_id: "AVATAR_m_shirt_ingress_r_0"
+  avatar_customization {
+    enabled: true
+    slot: SHIRT
+    bundle_name: "m_shirt_ingress_r_bundle"
+    asset_name: "m_shirt_ingress_r_0"
+    group_name: "group_shirt"
+    sort_order: 1272
+    unlock_type: DEFAULT
+    icon_name: "m_shirt_ingress_r_bundle_icon"
   }
 }
 item_templates {
@@ -15361,8 +15442,8 @@ item_templates {
   gender_settings {
     pokemon: 418
     gender {
-      male_percent: 0.875
-      female_percent: 0.125
+      male_percent: 0.5
+      female_percent: 0.5
     }
   }
 }
@@ -15371,8 +15452,8 @@ item_templates {
   gender_settings {
     pokemon: 419
     gender {
-      male_percent: 0.875
-      female_percent: 0.125
+      male_percent: 0.5
+      female_percent: 0.5
     }
   }
 }
@@ -40540,10 +40621,6 @@ item_templates {
       evolution: 291
       candy_cost: 50
     }
-    evolution_branch {
-      evolution: 292
-      candy_cost: 50
-    }
   }
 }
 item_templates {
@@ -40661,7 +40738,7 @@ item_templates {
       shoulder_mode_scale: 0.5
     }
     encounter {
-      base_capture_rate: 0.06
+      base_capture_rate: 0.05
       base_flee_rate: 0.05
       collision_radius_m: 0.25
       collision_height_m: 0.6
@@ -40685,8 +40762,8 @@ item_templates {
       base_attack: 153
       base_defense: 80
     }
-    quick_moves: BITE_FAST
-    quick_moves: STRUGGLE_BUG_FAST
+    quick_moves: BUG_BITE_FAST
+    quick_moves: SHADOW_CLAW_FAST
     cinematic_moves: SHADOW_SNEAK
     cinematic_moves: AERIAL_ACE
     cinematic_moves: DIG
@@ -69050,4 +69127,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1541962447940
+timestamp_ms: 1541902420213
